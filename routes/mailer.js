@@ -11,7 +11,7 @@ exports.login = (req, res) => {
         service: 'gmail',
         auth: {
           user: 'yogeshwaran751@gmail.com',
-          pass: 'donpebnjwujpkjux'
+          pass: '*************************Your Gmail Password*************************'
         }
       });
       var mailOptions = {
